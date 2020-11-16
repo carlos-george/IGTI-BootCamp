@@ -1,0 +1,382 @@
+{
+    "id": "25",
+    "uf": "SE",
+    "nome": "Sergipe",
+    "cidades": [
+        {
+            "id": "5351",
+            "nome": "Amparo de São Francisco",
+            "estadoId": "25"
+        },
+        {
+            "id": "5352",
+            "nome": "Aquidabã",
+            "estadoId": "25"
+        },
+        {
+            "id": "5353",
+            "nome": "Aracaju",
+            "estadoId": "25"
+        },
+        {
+            "id": "5354",
+            "nome": "Arauá",
+            "estadoId": "25"
+        },
+        {
+            "id": "5355",
+            "nome": "Areia Branca",
+            "estadoId": "25"
+        },
+        {
+            "id": "5356",
+            "nome": "Barra dos Coqueiros",
+            "estadoId": "25"
+        },
+        {
+            "id": "5357",
+            "nome": "Boquim",
+            "estadoId": "25"
+        },
+        {
+            "id": "5358",
+            "nome": "Brejo Grande",
+            "estadoId": "25"
+        },
+        {
+            "id": "5359",
+            "nome": "Campo do Brito",
+            "estadoId": "25"
+        },
+        {
+            "id": "5360",
+            "nome": "Canhoba",
+            "estadoId": "25"
+        },
+        {
+            "id": "5361",
+            "nome": "Canindé de São Francisco",
+            "estadoId": "25"
+        },
+        {
+            "id": "5362",
+            "nome": "Capela",
+            "estadoId": "25"
+        },
+        {
+            "id": "5363",
+            "nome": "Carira",
+            "estadoId": "25"
+        },
+        {
+            "id": "5364",
+            "nome": "Carmópolis",
+            "estadoId": "25"
+        },
+        {
+            "id": "5365",
+            "nome": "Cedro de São João",
+            "estadoId": "25"
+        },
+        {
+            "id": "5366",
+            "nome": "Cristinápolis",
+            "estadoId": "25"
+        },
+        {
+            "id": "5367",
+            "nome": "Cumbe",
+            "estadoId": "25"
+        },
+        {
+            "id": "5368",
+            "nome": "Divina Pastora",
+            "estadoId": "25"
+        },
+        {
+            "id": "5369",
+            "nome": "Estância",
+            "estadoId": "25"
+        },
+        {
+            "id": "5370",
+            "nome": "Feira Nova",
+            "estadoId": "25"
+        },
+        {
+            "id": "5371",
+            "nome": "Frei Paulo",
+            "estadoId": "25"
+        },
+        {
+            "id": "5372",
+            "nome": "Gararu",
+            "estadoId": "25"
+        },
+        {
+            "id": "5373",
+            "nome": "General Maynard",
+            "estadoId": "25"
+        },
+        {
+            "id": "5374",
+            "nome": "Gracho Cardoso",
+            "estadoId": "25"
+        },
+        {
+            "id": "5375",
+            "nome": "Ilha das Flores",
+            "estadoId": "25"
+        },
+        {
+            "id": "5376",
+            "nome": "Indiaroba",
+            "estadoId": "25"
+        },
+        {
+            "id": "5377",
+            "nome": "Itabaiana",
+            "estadoId": "25"
+        },
+        {
+            "id": "5378",
+            "nome": "Itabaianinha",
+            "estadoId": "25"
+        },
+        {
+            "id": "5379",
+            "nome": "Itabi",
+            "estadoId": "25"
+        },
+        {
+            "id": "5380",
+            "nome": "Itaporanga d`Ajuda",
+            "estadoId": "25"
+        },
+        {
+            "id": "5381",
+            "nome": "Japaratuba",
+            "estadoId": "25"
+        },
+        {
+            "id": "5382",
+            "nome": "Japoatã",
+            "estadoId": "25"
+        },
+        {
+            "id": "5383",
+            "nome": "Lagarto",
+            "estadoId": "25"
+        },
+        {
+            "id": "5384",
+            "nome": "Laranjeiras",
+            "estadoId": "25"
+        },
+        {
+            "id": "5385",
+            "nome": "Macambira",
+            "estadoId": "25"
+        },
+        {
+            "id": "5386",
+            "nome": "Malhada dos Bois",
+            "estadoId": "25"
+        },
+        {
+            "id": "5387",
+            "nome": "Malhador",
+            "estadoId": "25"
+        },
+        {
+            "id": "5388",
+            "nome": "Maruim",
+            "estadoId": "25"
+        },
+        {
+            "id": "5389",
+            "nome": "Moita Bonita",
+            "estadoId": "25"
+        },
+        {
+            "id": "5390",
+            "nome": "Monte Alegre de Sergipe",
+            "estadoId": "25"
+        },
+        {
+            "id": "5391",
+            "nome": "Muribeca",
+            "estadoId": "25"
+        },
+        {
+            "id": "5392",
+            "nome": "Neópolis",
+            "estadoId": "25"
+        },
+        {
+            "id": "5393",
+            "nome": "Nossa Senhora Aparecida",
+            "estadoId": "25"
+        },
+        {
+            "id": "5394",
+            "nome": "Nossa Senhora da Glória",
+            "estadoId": "25"
+        },
+        {
+            "id": "5395",
+            "nome": "Nossa Senhora das Dores",
+            "estadoId": "25"
+        },
+        {
+            "id": "5396",
+            "nome": "Nossa Senhora de Lourdes",
+            "estadoId": "25"
+        },
+        {
+            "id": "5397",
+            "nome": "Nossa Senhora do Socorro",
+            "estadoId": "25"
+        },
+        {
+            "id": "5398",
+            "nome": "Pacatuba",
+            "estadoId": "25"
+        },
+        {
+            "id": "5399",
+            "nome": "Pedra Mole",
+            "estadoId": "25"
+        },
+        {
+            "id": "5400",
+            "nome": "Pedrinhas",
+            "estadoId": "25"
+        },
+        {
+            "id": "5401",
+            "nome": "Pinhão",
+            "estadoId": "25"
+        },
+        {
+            "id": "5402",
+            "nome": "Pirambu",
+            "estadoId": "25"
+        },
+        {
+            "id": "5403",
+            "nome": "Poço Redondo",
+            "estadoId": "25"
+        },
+        {
+            "id": "5404",
+            "nome": "Poço Verde",
+            "estadoId": "25"
+        },
+        {
+            "id": "5405",
+            "nome": "Porto da Folha",
+            "estadoId": "25"
+        },
+        {
+            "id": "5406",
+            "nome": "Propriá",
+            "estadoId": "25"
+        },
+        {
+            "id": "5407",
+            "nome": "Riachão do Dantas",
+            "estadoId": "25"
+        },
+        {
+            "id": "5408",
+            "nome": "Riachuelo",
+            "estadoId": "25"
+        },
+        {
+            "id": "5409",
+            "nome": "Ribeirópolis",
+            "estadoId": "25"
+        },
+        {
+            "id": "5410",
+            "nome": "Rosário do Catete",
+            "estadoId": "25"
+        },
+        {
+            "id": "5411",
+            "nome": "Salgado",
+            "estadoId": "25"
+        },
+        {
+            "id": "5412",
+            "nome": "Santa Luzia do Itanhy",
+            "estadoId": "25"
+        },
+        {
+            "id": "5413",
+            "nome": "Santa Rosa de Lima",
+            "estadoId": "25"
+        },
+        {
+            "id": "5414",
+            "nome": "Santana do São Francisco",
+            "estadoId": "25"
+        },
+        {
+            "id": "5415",
+            "nome": "Santo Amaro das Brotas",
+            "estadoId": "25"
+        },
+        {
+            "id": "5416",
+            "nome": "São Cristóvão",
+            "estadoId": "25"
+        },
+        {
+            "id": "5417",
+            "nome": "São Domingos",
+            "estadoId": "25"
+        },
+        {
+            "id": "5418",
+            "nome": "São Francisco",
+            "estadoId": "25"
+        },
+        {
+            "id": "5419",
+            "nome": "São Miguel do Aleixo",
+            "estadoId": "25"
+        },
+        {
+            "id": "5420",
+            "nome": "Simão Dias",
+            "estadoId": "25"
+        },
+        {
+            "id": "5421",
+            "nome": "Siriri",
+            "estadoId": "25"
+        },
+        {
+            "id": "5422",
+            "nome": "Telha",
+            "estadoId": "25"
+        },
+        {
+            "id": "5423",
+            "nome": "Tobias Barreto",
+            "estadoId": "25"
+        },
+        {
+            "id": "5424",
+            "nome": "Tomar do Geru",
+            "estadoId": "25"
+        },
+        {
+            "id": "5425",
+            "nome": "Umbaúba",
+            "estadoId": "25"
+        }
+    ]
+}

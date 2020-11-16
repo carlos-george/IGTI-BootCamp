@@ -1,0 +1,267 @@
+{
+    "id": "21",
+    "uf": "RO",
+    "nome": "Rondônia",
+    "cidades": [
+        {
+            "id": "4346",
+            "nome": "Alta Floresta d`Oeste",
+            "estadoId": "21"
+        },
+        {
+            "id": "4347",
+            "nome": "Alto Alegre dos Parecis",
+            "estadoId": "21"
+        },
+        {
+            "id": "4348",
+            "nome": "Alto Paraíso",
+            "estadoId": "21"
+        },
+        {
+            "id": "4349",
+            "nome": "Alvorada d`Oeste",
+            "estadoId": "21"
+        },
+        {
+            "id": "4350",
+            "nome": "Ariquemes",
+            "estadoId": "21"
+        },
+        {
+            "id": "4351",
+            "nome": "Buritis",
+            "estadoId": "21"
+        },
+        {
+            "id": "4352",
+            "nome": "Cabixi",
+            "estadoId": "21"
+        },
+        {
+            "id": "4353",
+            "nome": "Cacaulândia",
+            "estadoId": "21"
+        },
+        {
+            "id": "4354",
+            "nome": "Cacoal",
+            "estadoId": "21"
+        },
+        {
+            "id": "4355",
+            "nome": "Campo Novo de Rondônia",
+            "estadoId": "21"
+        },
+        {
+            "id": "4356",
+            "nome": "Candeias do Jamari",
+            "estadoId": "21"
+        },
+        {
+            "id": "4357",
+            "nome": "Castanheiras",
+            "estadoId": "21"
+        },
+        {
+            "id": "4358",
+            "nome": "Cerejeiras",
+            "estadoId": "21"
+        },
+        {
+            "id": "4359",
+            "nome": "Chupinguaia",
+            "estadoId": "21"
+        },
+        {
+            "id": "4360",
+            "nome": "Colorado do Oeste",
+            "estadoId": "21"
+        },
+        {
+            "id": "4361",
+            "nome": "Corumbiara",
+            "estadoId": "21"
+        },
+        {
+            "id": "4362",
+            "nome": "Costa Marques",
+            "estadoId": "21"
+        },
+        {
+            "id": "4363",
+            "nome": "Cujubim",
+            "estadoId": "21"
+        },
+        {
+            "id": "4364",
+            "nome": "Espigão d`Oeste",
+            "estadoId": "21"
+        },
+        {
+            "id": "4365",
+            "nome": "Governador Jorge Teixeira",
+            "estadoId": "21"
+        },
+        {
+            "id": "4366",
+            "nome": "Guajará-Mirim",
+            "estadoId": "21"
+        },
+        {
+            "id": "4367",
+            "nome": "Itapuã do Oeste",
+            "estadoId": "21"
+        },
+        {
+            "id": "4368",
+            "nome": "Jaru",
+            "estadoId": "21"
+        },
+        {
+            "id": "4369",
+            "nome": "Ji-Paraná",
+            "estadoId": "21"
+        },
+        {
+            "id": "4370",
+            "nome": "Machadinho d`Oeste",
+            "estadoId": "21"
+        },
+        {
+            "id": "4371",
+            "nome": "Ministro Andreazza",
+            "estadoId": "21"
+        },
+        {
+            "id": "4372",
+            "nome": "Mirante da Serra",
+            "estadoId": "21"
+        },
+        {
+            "id": "4373",
+            "nome": "Monte Negro",
+            "estadoId": "21"
+        },
+        {
+            "id": "4374",
+            "nome": "Nova Brasilândia d`Oeste",
+            "estadoId": "21"
+        },
+        {
+            "id": "4375",
+            "nome": "Nova Mamoré",
+            "estadoId": "21"
+        },
+        {
+            "id": "4376",
+            "nome": "Nova União",
+            "estadoId": "21"
+        },
+        {
+            "id": "4377",
+            "nome": "Novo Horizonte do Oeste",
+            "estadoId": "21"
+        },
+        {
+            "id": "4378",
+            "nome": "Ouro Preto do Oeste",
+            "estadoId": "21"
+        },
+        {
+            "id": "4379",
+            "nome": "Parecis",
+            "estadoId": "21"
+        },
+        {
+            "id": "4380",
+            "nome": "Pimenta Bueno",
+            "estadoId": "21"
+        },
+        {
+            "id": "4381",
+            "nome": "Pimenteiras do Oeste",
+            "estadoId": "21"
+        },
+        {
+            "id": "4382",
+            "nome": "Porto Velho",
+            "estadoId": "21"
+        },
+        {
+            "id": "4383",
+            "nome": "Presidente Médici",
+            "estadoId": "21"
+        },
+        {
+            "id": "4384",
+            "nome": "Primavera de Rondônia",
+            "estadoId": "21"
+        },
+        {
+            "id": "4385",
+            "nome": "Rio Crespo",
+            "estadoId": "21"
+        },
+        {
+            "id": "4386",
+            "nome": "Rolim de Moura",
+            "estadoId": "21"
+        },
+        {
+            "id": "4387",
+            "nome": "Santa Luzia d`Oeste",
+            "estadoId": "21"
+        },
+        {
+            "id": "4388",
+            "nome": "São Felipe d`Oeste",
+            "estadoId": "21"
+        },
+        {
+            "id": "4389",
+            "nome": "São Francisco do Guaporé",
+            "estadoId": "21"
+        },
+        {
+            "id": "4390",
+            "nome": "São Miguel do Guaporé",
+            "estadoId": "21"
+        },
+        {
+            "id": "4391",
+            "nome": "Seringueiras",
+            "estadoId": "21"
+        },
+        {
+            "id": "4392",
+            "nome": "Teixeirópolis",
+            "estadoId": "21"
+        },
+        {
+            "id": "4393",
+            "nome": "Theobroma",
+            "estadoId": "21"
+        },
+        {
+            "id": "4394",
+            "nome": "Urupá",
+            "estadoId": "21"
+        },
+        {
+            "id": "4395",
+            "nome": "Vale do Anari",
+            "estadoId": "21"
+        },
+        {
+            "id": "4396",
+            "nome": "Vale do Paraíso",
+            "estadoId": "21"
+        },
+        {
+            "id": "4397",
+            "nome": "Vilhena",
+            "estadoId": "21"
+        }
+    ]
+}

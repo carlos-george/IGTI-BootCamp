@@ -1,0 +1,27 @@
+body {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+    }
+    body .content {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    body .content .form-rgb {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+    }
+    body .content .form-rgb .form-rgb-content {
+      display: flex;
+      flex-direction: column;
+      padding: 10px;
+    }
+    body .content .square {
+      width: 100px;
+      height: 100px;
+      border: 1px solid #000;
+    }

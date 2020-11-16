@@ -1,0 +1,317 @@
+{
+    "id": "3",
+    "uf": "AM",
+    "nome": "Amazonas",
+    "cidades": [
+        {
+            "id": "219",
+            "nome": "Alvarães",
+            "estadoId": "3"
+        },
+        {
+            "id": "220",
+            "nome": "Amaturá",
+            "estadoId": "3"
+        },
+        {
+            "id": "221",
+            "nome": "Anamã",
+            "estadoId": "3"
+        },
+        {
+            "id": "222",
+            "nome": "Anori",
+            "estadoId": "3"
+        },
+        {
+            "id": "223",
+            "nome": "Apuí",
+            "estadoId": "3"
+        },
+        {
+            "id": "224",
+            "nome": "Atalaia do Norte",
+            "estadoId": "3"
+        },
+        {
+            "id": "225",
+            "nome": "Autazes",
+            "estadoId": "3"
+        },
+        {
+            "id": "226",
+            "nome": "Barcelos",
+            "estadoId": "3"
+        },
+        {
+            "id": "227",
+            "nome": "Barreirinha",
+            "estadoId": "3"
+        },
+        {
+            "id": "228",
+            "nome": "Benjamin Constant",
+            "estadoId": "3"
+        },
+        {
+            "id": "229",
+            "nome": "Beruri",
+            "estadoId": "3"
+        },
+        {
+            "id": "230",
+            "nome": "Boa Vista do Ramos",
+            "estadoId": "3"
+        },
+        {
+            "id": "231",
+            "nome": "Boca do Acre",
+            "estadoId": "3"
+        },
+        {
+            "id": "232",
+            "nome": "Borba",
+            "estadoId": "3"
+        },
+        {
+            "id": "233",
+            "nome": "Caapiranga",
+            "estadoId": "3"
+        },
+        {
+            "id": "234",
+            "nome": "Canutama",
+            "estadoId": "3"
+        },
+        {
+            "id": "235",
+            "nome": "Carauari",
+            "estadoId": "3"
+        },
+        {
+            "id": "236",
+            "nome": "Careiro",
+            "estadoId": "3"
+        },
+        {
+            "id": "237",
+            "nome": "Careiro da Várzea",
+            "estadoId": "3"
+        },
+        {
+            "id": "238",
+            "nome": "Coari",
+            "estadoId": "3"
+        },
+        {
+            "id": "239",
+            "nome": "Codajás",
+            "estadoId": "3"
+        },
+        {
+            "id": "240",
+            "nome": "Eirunepé",
+            "estadoId": "3"
+        },
+        {
+            "id": "241",
+            "nome": "Envira",
+            "estadoId": "3"
+        },
+        {
+            "id": "242",
+            "nome": "Fonte Boa",
+            "estadoId": "3"
+        },
+        {
+            "id": "243",
+            "nome": "Guajará",
+            "estadoId": "3"
+        },
+        {
+            "id": "244",
+            "nome": "Humaitá",
+            "estadoId": "3"
+        },
+        {
+            "id": "245",
+            "nome": "Ipixuna",
+            "estadoId": "3"
+        },
+        {
+            "id": "246",
+            "nome": "Iranduba",
+            "estadoId": "3"
+        },
+        {
+            "id": "247",
+            "nome": "Itacoatiara",
+            "estadoId": "3"
+        },
+        {
+            "id": "248",
+            "nome": "Itamarati",
+            "estadoId": "3"
+        },
+        {
+            "id": "249",
+            "nome": "Itapiranga",
+            "estadoId": "3"
+        },
+        {
+            "id": "250",
+            "nome": "Japurá",
+            "estadoId": "3"
+        },
+        {
+            "id": "251",
+            "nome": "Juruá",
+            "estadoId": "3"
+        },
+        {
+            "id": "252",
+            "nome": "Jutaí",
+            "estadoId": "3"
+        },
+        {
+            "id": "253",
+            "nome": "Lábrea",
+            "estadoId": "3"
+        },
+        {
+            "id": "254",
+            "nome": "Manacapuru",
+            "estadoId": "3"
+        },
+        {
+            "id": "255",
+            "nome": "Manaquiri",
+            "estadoId": "3"
+        },
+        {
+            "id": "256",
+            "nome": "Manaus",
+            "estadoId": "3"
+        },
+        {
+            "id": "257",
+            "nome": "Manicoré",
+            "estadoId": "3"
+        },
+        {
+            "id": "258",
+            "nome": "Maraã",
+            "estadoId": "3"
+        },
+        {
+            "id": "259",
+            "nome": "Maués",
+            "estadoId": "3"
+        },
+        {
+            "id": "260",
+            "nome": "Nhamundá",
+            "estadoId": "3"
+        },
+        {
+            "id": "261",
+            "nome": "Nova Olinda do Norte",
+            "estadoId": "3"
+        },
+        {
+            "id": "262",
+            "nome": "Novo Airão",
+            "estadoId": "3"
+        },
+        {
+            "id": "263",
+            "nome": "Novo Aripuanã",
+            "estadoId": "3"
+        },
+        {
+            "id": "264",
+            "nome": "Parintins",
+            "estadoId": "3"
+        },
+        {
+            "id": "265",
+            "nome": "Pauini",
+            "estadoId": "3"
+        },
+        {
+            "id": "266",
+            "nome": "Presidente Figueiredo",
+            "estadoId": "3"
+        },
+        {
+            "id": "267",
+            "nome": "Rio Preto da Eva",
+            "estadoId": "3"
+        },
+        {
+            "id": "268",
+            "nome": "Santa Isabel do Rio Negro",
+            "estadoId": "3"
+        },
+        {
+            "id": "269",
+            "nome": "Santo Antônio do Içá",
+            "estadoId": "3"
+        },
+        {
+            "id": "270",
+            "nome": "São Gabriel da Cachoeira",
+            "estadoId": "3"
+        },
+        {
+            "id": "271",
+            "nome": "São Paulo de Olivença",
+            "estadoId": "3"
+        },
+        {
+            "id": "272",
+            "nome": "São Sebastião do Uatumã",
+            "estadoId": "3"
+        },
+        {
+            "id": "273",
+            "nome": "Silves",
+            "estadoId": "3"
+        },
+        {
+            "id": "274",
+            "nome": "Tabatinga",
+            "estadoId": "3"
+        },
+        {
+            "id": "275",
+            "nome": "Tapauá",
+            "estadoId": "3"
+        },
+        {
+            "id": "276",
+            "nome": "Tefé",
+            "estadoId": "3"
+        },
+        {
+            "id": "277",
+            "nome": "Tonantins",
+            "estadoId": "3"
+        },
+        {
+            "id": "278",
+            "nome": "Uarini",
+            "estadoId": "3"
+        },
+        {
+            "id": "279",
+            "nome": "Urucará",
+            "estadoId": "3"
+        },
+        {
+            "id": "280",
+            "nome": "Urucurituba",
+            "estadoId": "3"
+        }
+    ]
+}

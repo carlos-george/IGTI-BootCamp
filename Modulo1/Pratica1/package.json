@@ -1,0 +1,12 @@
+{
+  "name": "Pratica1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "live-server --port=3000 --open=./Pages"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}

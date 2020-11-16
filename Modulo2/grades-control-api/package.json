@@ -1,0 +1,28 @@
+{
+  "name": "grades-control-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node --experimental-modules --es-module-specifier-resolution=node ./server.js",
+    "prod": "node --experimental-modules --es-module-specifier-resolution=node ./src/server.js",
+    "start:prod": "concurrently \"npm run prod\" \"npm run server\"",
+    "dev": "nodemon --experimental-modules --es-module-specifier-resolution=node ./src/server.js",
+    "start:dev": "concurrently \"npm run dev\" \"npm run server\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "concurrently": "^5.3.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "json-server": "^0.16.2"
+  }
+}

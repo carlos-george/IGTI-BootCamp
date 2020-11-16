@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+}
+
+body .content {
+  width: 90vw;
+  padding: 20px;
+  background: #ebebeb;
+}
+
+body header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body .search-result {
+  width: 100%;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+body .search-result p {
+  margin: 10px auto;
+}
+
+body .search-result .users-result {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  background: #fff;
+}
+
+body .search-result .users-result + .users-statistic {
+  margin-left: 10px;
+}
+
+body .search-result .users-statistic {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  background: #fff;
+}
+
+body .search-result .users-result ul {
+  margin-top: 15px;
+}
+
+body .search-result .users-result li {
+  margin: 10px auto;
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+body .search-result .users-result li img {
+  margin-right: 15px;
+  border-radius: 50%;
+}
+
+body .form-filter {
+  width: 100%;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body .form-filter .form-button {
+  height: 50px;
+  padding: 10px;
+  margin-top: 12px;
+  margin-left: 10px;
+  border: 0;
+  border-radius: 5px;
+  background: #fff;
+}
+
+body .form-filter .form-button-focus {
+  height: 50px;
+  padding: 10px;
+  margin-top: 12px;
+  margin-left: 10px;
+  border: 0;
+  border-radius: 5px;
+  background: #39b24d;
+  color: #fff;
+}
+
+body .form-filter .label-float {
+  width: 100%;
+  position: relative;
+  padding-top: 13px;
+}
+
+body .form-filter .label-float input {
+  width: 100%;
+  border: 0;
+  height: 50px;
+  border-radius: 5px;
+  outline: none;
+  min-width: 250px;
+  padding: 15px 20px;
+  font-size: 16px;
+  transition: all 0.1s linear;
+  -webkit-transition: all 0.1s linear;
+  -moz-transition: all 0.1s linear;
+  -webkit-appearance: none;
+}
+
+body .form-filter .label-float input:focus {
+  border-bottom: 2px solid #39b24d;
+}
+
+body .form-filter .label-float input::placeholder {
+  color: transparent;
+}
+
+body .form-filter .label-float label {
+  color: #a8a8a8;
+  pointer-events: none;
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 15px;
+  transition: all 0.1s linear;
+  -webkit-transition: all 0.1s linear;
+  -moz-transition: all 0.1s linear;
+  background-color: transparent;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+body .form-filter .label-float input:focus + label,
+body .form-filter .label-float input:not(:placeholder-shown) + label {
+  font-size: 13px;
+  top: 0;
+  color: #39b24d;
+}

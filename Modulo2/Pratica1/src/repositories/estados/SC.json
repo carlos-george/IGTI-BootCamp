@@ -1,0 +1,1472 @@
+{
+    "id": "24",
+    "uf": "SC",
+    "nome": "Santa Catarina",
+    "cidades": [
+        {
+            "id": "4413",
+            "nome": "Abdon Batista",
+            "estadoId": "24"
+        },
+        {
+            "id": "4414",
+            "nome": "Abelardo Luz",
+            "estadoId": "24"
+        },
+        {
+            "id": "4415",
+            "nome": "Agrolândia",
+            "estadoId": "24"
+        },
+        {
+            "id": "4416",
+            "nome": "Agronômica",
+            "estadoId": "24"
+        },
+        {
+            "id": "4417",
+            "nome": "Água Doce",
+            "estadoId": "24"
+        },
+        {
+            "id": "4418",
+            "nome": "Águas de Chapecó",
+            "estadoId": "24"
+        },
+        {
+            "id": "4419",
+            "nome": "Águas Frias",
+            "estadoId": "24"
+        },
+        {
+            "id": "4420",
+            "nome": "Águas Mornas",
+            "estadoId": "24"
+        },
+        {
+            "id": "4421",
+            "nome": "Alfredo Wagner",
+            "estadoId": "24"
+        },
+        {
+            "id": "4422",
+            "nome": "Alto Bela Vista",
+            "estadoId": "24"
+        },
+        {
+            "id": "4423",
+            "nome": "Anchieta",
+            "estadoId": "24"
+        },
+        {
+            "id": "4424",
+            "nome": "Angelina",
+            "estadoId": "24"
+        },
+        {
+            "id": "4425",
+            "nome": "Anita Garibaldi",
+            "estadoId": "24"
+        },
+        {
+            "id": "4426",
+            "nome": "Anitápolis",
+            "estadoId": "24"
+        },
+        {
+            "id": "4427",
+            "nome": "Antônio Carlos",
+            "estadoId": "24"
+        },
+        {
+            "id": "4428",
+            "nome": "Apiúna",
+            "estadoId": "24"
+        },
+        {
+            "id": "4429",
+            "nome": "Arabutã",
+            "estadoId": "24"
+        },
+        {
+            "id": "4430",
+            "nome": "Araquari",
+            "estadoId": "24"
+        },
+        {
+            "id": "4431",
+            "nome": "Araranguá",
+            "estadoId": "24"
+        },
+        {
+            "id": "4432",
+            "nome": "Armazém",
+            "estadoId": "24"
+        },
+        {
+            "id": "4433",
+            "nome": "Arroio Trinta",
+            "estadoId": "24"
+        },
+        {
+            "id": "4434",
+            "nome": "Arvoredo",
+            "estadoId": "24"
+        },
+        {
+            "id": "4435",
+            "nome": "Ascurra",
+            "estadoId": "24"
+        },
+        {
+            "id": "4436",
+            "nome": "Atalanta",
+            "estadoId": "24"
+        },
+        {
+            "id": "4437",
+            "nome": "Aurora",
+            "estadoId": "24"
+        },
+        {
+            "id": "4438",
+            "nome": "Balneário Arroio do Silva",
+            "estadoId": "24"
+        },
+        {
+            "id": "4439",
+            "nome": "Balneário Barra do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4440",
+            "nome": "Balneário Camboriú",
+            "estadoId": "24"
+        },
+        {
+            "id": "4441",
+            "nome": "Balneário Gaivota",
+            "estadoId": "24"
+        },
+        {
+            "id": "4442",
+            "nome": "Bandeirante",
+            "estadoId": "24"
+        },
+        {
+            "id": "4443",
+            "nome": "Barra Bonita",
+            "estadoId": "24"
+        },
+        {
+            "id": "4444",
+            "nome": "Barra Velha",
+            "estadoId": "24"
+        },
+        {
+            "id": "4445",
+            "nome": "Bela Vista do Toldo",
+            "estadoId": "24"
+        },
+        {
+            "id": "4446",
+            "nome": "Belmonte",
+            "estadoId": "24"
+        },
+        {
+            "id": "4447",
+            "nome": "Benedito Novo",
+            "estadoId": "24"
+        },
+        {
+            "id": "4448",
+            "nome": "Biguaçu",
+            "estadoId": "24"
+        },
+        {
+            "id": "4449",
+            "nome": "Blumenau",
+            "estadoId": "24"
+        },
+        {
+            "id": "4450",
+            "nome": "Bocaina do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4451",
+            "nome": "Bom Jardim da Serra",
+            "estadoId": "24"
+        },
+        {
+            "id": "4452",
+            "nome": "Bom Jesus",
+            "estadoId": "24"
+        },
+        {
+            "id": "4453",
+            "nome": "Bom Jesus do Oeste",
+            "estadoId": "24"
+        },
+        {
+            "id": "4454",
+            "nome": "Bom Retiro",
+            "estadoId": "24"
+        },
+        {
+            "id": "4455",
+            "nome": "Bombinhas",
+            "estadoId": "24"
+        },
+        {
+            "id": "4456",
+            "nome": "Botuverá",
+            "estadoId": "24"
+        },
+        {
+            "id": "4457",
+            "nome": "Braço do Norte",
+            "estadoId": "24"
+        },
+        {
+            "id": "4458",
+            "nome": "Braço do Trombudo",
+            "estadoId": "24"
+        },
+        {
+            "id": "4459",
+            "nome": "Brunópolis",
+            "estadoId": "24"
+        },
+        {
+            "id": "4460",
+            "nome": "Brusque",
+            "estadoId": "24"
+        },
+        {
+            "id": "4461",
+            "nome": "Caçador",
+            "estadoId": "24"
+        },
+        {
+            "id": "4462",
+            "nome": "Caibi",
+            "estadoId": "24"
+        },
+        {
+            "id": "4463",
+            "nome": "Calmon",
+            "estadoId": "24"
+        },
+        {
+            "id": "4464",
+            "nome": "Camboriú",
+            "estadoId": "24"
+        },
+        {
+            "id": "4465",
+            "nome": "Campo Alegre",
+            "estadoId": "24"
+        },
+        {
+            "id": "4466",
+            "nome": "Campo Belo do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4467",
+            "nome": "Campo Erê",
+            "estadoId": "24"
+        },
+        {
+            "id": "4468",
+            "nome": "Campos Novos",
+            "estadoId": "24"
+        },
+        {
+            "id": "4469",
+            "nome": "Canelinha",
+            "estadoId": "24"
+        },
+        {
+            "id": "4470",
+            "nome": "Canoinhas",
+            "estadoId": "24"
+        },
+        {
+            "id": "4471",
+            "nome": "Capão Alto",
+            "estadoId": "24"
+        },
+        {
+            "id": "4472",
+            "nome": "Capinzal",
+            "estadoId": "24"
+        },
+        {
+            "id": "4473",
+            "nome": "Capivari de Baixo",
+            "estadoId": "24"
+        },
+        {
+            "id": "4474",
+            "nome": "Catanduvas",
+            "estadoId": "24"
+        },
+        {
+            "id": "4475",
+            "nome": "Caxambu do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4476",
+            "nome": "Celso Ramos",
+            "estadoId": "24"
+        },
+        {
+            "id": "4477",
+            "nome": "Cerro Negro",
+            "estadoId": "24"
+        },
+        {
+            "id": "4478",
+            "nome": "Chapadão do Lageado",
+            "estadoId": "24"
+        },
+        {
+            "id": "4479",
+            "nome": "Chapecó",
+            "estadoId": "24"
+        },
+        {
+            "id": "4480",
+            "nome": "Cocal do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4481",
+            "nome": "Concórdia",
+            "estadoId": "24"
+        },
+        {
+            "id": "4482",
+            "nome": "Cordilheira Alta",
+            "estadoId": "24"
+        },
+        {
+            "id": "4483",
+            "nome": "Coronel Freitas",
+            "estadoId": "24"
+        },
+        {
+            "id": "4484",
+            "nome": "Coronel Martins",
+            "estadoId": "24"
+        },
+        {
+            "id": "4485",
+            "nome": "Correia Pinto",
+            "estadoId": "24"
+        },
+        {
+            "id": "4486",
+            "nome": "Corupá",
+            "estadoId": "24"
+        },
+        {
+            "id": "4487",
+            "nome": "Criciúma",
+            "estadoId": "24"
+        },
+        {
+            "id": "4488",
+            "nome": "Cunha Porã",
+            "estadoId": "24"
+        },
+        {
+            "id": "4489",
+            "nome": "Cunhataí",
+            "estadoId": "24"
+        },
+        {
+            "id": "4490",
+            "nome": "Curitibanos",
+            "estadoId": "24"
+        },
+        {
+            "id": "4491",
+            "nome": "Descanso",
+            "estadoId": "24"
+        },
+        {
+            "id": "4492",
+            "nome": "Dionísio Cerqueira",
+            "estadoId": "24"
+        },
+        {
+            "id": "4493",
+            "nome": "Dona Emma",
+            "estadoId": "24"
+        },
+        {
+            "id": "4494",
+            "nome": "Doutor Pedrinho",
+            "estadoId": "24"
+        },
+        {
+            "id": "4495",
+            "nome": "Entre Rios",
+            "estadoId": "24"
+        },
+        {
+            "id": "4496",
+            "nome": "Ermo",
+            "estadoId": "24"
+        },
+        {
+            "id": "4497",
+            "nome": "Erval Velho",
+            "estadoId": "24"
+        },
+        {
+            "id": "4498",
+            "nome": "Faxinal dos Guedes",
+            "estadoId": "24"
+        },
+        {
+            "id": "4499",
+            "nome": "Flor do Sertão",
+            "estadoId": "24"
+        },
+        {
+            "id": "4500",
+            "nome": "Florianópolis",
+            "estadoId": "24"
+        },
+        {
+            "id": "4501",
+            "nome": "Formosa do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4502",
+            "nome": "Forquilhinha",
+            "estadoId": "24"
+        },
+        {
+            "id": "4503",
+            "nome": "Fraiburgo",
+            "estadoId": "24"
+        },
+        {
+            "id": "4504",
+            "nome": "Frei Rogério",
+            "estadoId": "24"
+        },
+        {
+            "id": "4505",
+            "nome": "Galvão",
+            "estadoId": "24"
+        },
+        {
+            "id": "4506",
+            "nome": "Garopaba",
+            "estadoId": "24"
+        },
+        {
+            "id": "4507",
+            "nome": "Garuva",
+            "estadoId": "24"
+        },
+        {
+            "id": "4508",
+            "nome": "Gaspar",
+            "estadoId": "24"
+        },
+        {
+            "id": "4509",
+            "nome": "Governador Celso Ramos",
+            "estadoId": "24"
+        },
+        {
+            "id": "4510",
+            "nome": "Grão Pará",
+            "estadoId": "24"
+        },
+        {
+            "id": "4511",
+            "nome": "Gravatal",
+            "estadoId": "24"
+        },
+        {
+            "id": "4512",
+            "nome": "Guabiruba",
+            "estadoId": "24"
+        },
+        {
+            "id": "4513",
+            "nome": "Guaraciaba",
+            "estadoId": "24"
+        },
+        {
+            "id": "4514",
+            "nome": "Guaramirim",
+            "estadoId": "24"
+        },
+        {
+            "id": "4515",
+            "nome": "Guarujá do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4516",
+            "nome": "Guatambú",
+            "estadoId": "24"
+        },
+        {
+            "id": "4517",
+            "nome": "Herval d`Oeste",
+            "estadoId": "24"
+        },
+        {
+            "id": "4518",
+            "nome": "Ibiam",
+            "estadoId": "24"
+        },
+        {
+            "id": "4519",
+            "nome": "Ibicaré",
+            "estadoId": "24"
+        },
+        {
+            "id": "4520",
+            "nome": "Ibirama",
+            "estadoId": "24"
+        },
+        {
+            "id": "4521",
+            "nome": "Içara",
+            "estadoId": "24"
+        },
+        {
+            "id": "4522",
+            "nome": "Ilhota",
+            "estadoId": "24"
+        },
+        {
+            "id": "4523",
+            "nome": "Imaruí",
+            "estadoId": "24"
+        },
+        {
+            "id": "4524",
+            "nome": "Imbituba",
+            "estadoId": "24"
+        },
+        {
+            "id": "4525",
+            "nome": "Imbuia",
+            "estadoId": "24"
+        },
+        {
+            "id": "4526",
+            "nome": "Indaial",
+            "estadoId": "24"
+        },
+        {
+            "id": "4527",
+            "nome": "Iomerê",
+            "estadoId": "24"
+        },
+        {
+            "id": "4528",
+            "nome": "Ipira",
+            "estadoId": "24"
+        },
+        {
+            "id": "4529",
+            "nome": "Iporã do Oeste",
+            "estadoId": "24"
+        },
+        {
+            "id": "4530",
+            "nome": "Ipuaçu",
+            "estadoId": "24"
+        },
+        {
+            "id": "4531",
+            "nome": "Ipumirim",
+            "estadoId": "24"
+        },
+        {
+            "id": "4532",
+            "nome": "Iraceminha",
+            "estadoId": "24"
+        },
+        {
+            "id": "4533",
+            "nome": "Irani",
+            "estadoId": "24"
+        },
+        {
+            "id": "4534",
+            "nome": "Irati",
+            "estadoId": "24"
+        },
+        {
+            "id": "4535",
+            "nome": "Irineópolis",
+            "estadoId": "24"
+        },
+        {
+            "id": "4536",
+            "nome": "Itá",
+            "estadoId": "24"
+        },
+        {
+            "id": "4537",
+            "nome": "Itaiópolis",
+            "estadoId": "24"
+        },
+        {
+            "id": "4538",
+            "nome": "Itajaí",
+            "estadoId": "24"
+        },
+        {
+            "id": "4539",
+            "nome": "Itapema",
+            "estadoId": "24"
+        },
+        {
+            "id": "4540",
+            "nome": "Itapiranga",
+            "estadoId": "24"
+        },
+        {
+            "id": "4541",
+            "nome": "Itapoá",
+            "estadoId": "24"
+        },
+        {
+            "id": "4542",
+            "nome": "Ituporanga",
+            "estadoId": "24"
+        },
+        {
+            "id": "4543",
+            "nome": "Jaborá",
+            "estadoId": "24"
+        },
+        {
+            "id": "4544",
+            "nome": "Jacinto Machado",
+            "estadoId": "24"
+        },
+        {
+            "id": "4545",
+            "nome": "Jaguaruna",
+            "estadoId": "24"
+        },
+        {
+            "id": "4546",
+            "nome": "Jaraguá do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4547",
+            "nome": "Jardinópolis",
+            "estadoId": "24"
+        },
+        {
+            "id": "4548",
+            "nome": "Joaçaba",
+            "estadoId": "24"
+        },
+        {
+            "id": "4549",
+            "nome": "Joinville",
+            "estadoId": "24"
+        },
+        {
+            "id": "4550",
+            "nome": "José Boiteux",
+            "estadoId": "24"
+        },
+        {
+            "id": "4551",
+            "nome": "Jupiá",
+            "estadoId": "24"
+        },
+        {
+            "id": "4552",
+            "nome": "Lacerdópolis",
+            "estadoId": "24"
+        },
+        {
+            "id": "4553",
+            "nome": "Lages",
+            "estadoId": "24"
+        },
+        {
+            "id": "4554",
+            "nome": "Laguna",
+            "estadoId": "24"
+        },
+        {
+            "id": "4555",
+            "nome": "Lajeado Grande",
+            "estadoId": "24"
+        },
+        {
+            "id": "4556",
+            "nome": "Laurentino",
+            "estadoId": "24"
+        },
+        {
+            "id": "4557",
+            "nome": "Lauro Muller",
+            "estadoId": "24"
+        },
+        {
+            "id": "4558",
+            "nome": "Lebon Régis",
+            "estadoId": "24"
+        },
+        {
+            "id": "4559",
+            "nome": "Leoberto Leal",
+            "estadoId": "24"
+        },
+        {
+            "id": "4560",
+            "nome": "Lindóia do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4561",
+            "nome": "Lontras",
+            "estadoId": "24"
+        },
+        {
+            "id": "4562",
+            "nome": "Luiz Alves",
+            "estadoId": "24"
+        },
+        {
+            "id": "4563",
+            "nome": "Luzerna",
+            "estadoId": "24"
+        },
+        {
+            "id": "4564",
+            "nome": "Macieira",
+            "estadoId": "24"
+        },
+        {
+            "id": "4565",
+            "nome": "Mafra",
+            "estadoId": "24"
+        },
+        {
+            "id": "4566",
+            "nome": "Major Gercino",
+            "estadoId": "24"
+        },
+        {
+            "id": "4567",
+            "nome": "Major Vieira",
+            "estadoId": "24"
+        },
+        {
+            "id": "4568",
+            "nome": "Maracajá",
+            "estadoId": "24"
+        },
+        {
+            "id": "4569",
+            "nome": "Maravilha",
+            "estadoId": "24"
+        },
+        {
+            "id": "4570",
+            "nome": "Marema",
+            "estadoId": "24"
+        },
+        {
+            "id": "4571",
+            "nome": "Massaranduba",
+            "estadoId": "24"
+        },
+        {
+            "id": "4572",
+            "nome": "Matos Costa",
+            "estadoId": "24"
+        },
+        {
+            "id": "4573",
+            "nome": "Meleiro",
+            "estadoId": "24"
+        },
+        {
+            "id": "4574",
+            "nome": "Mirim Doce",
+            "estadoId": "24"
+        },
+        {
+            "id": "4575",
+            "nome": "Modelo",
+            "estadoId": "24"
+        },
+        {
+            "id": "4576",
+            "nome": "Mondaí",
+            "estadoId": "24"
+        },
+        {
+            "id": "4577",
+            "nome": "Monte Carlo",
+            "estadoId": "24"
+        },
+        {
+            "id": "4578",
+            "nome": "Monte Castelo",
+            "estadoId": "24"
+        },
+        {
+            "id": "4579",
+            "nome": "Morro da Fumaça",
+            "estadoId": "24"
+        },
+        {
+            "id": "4580",
+            "nome": "Morro Grande",
+            "estadoId": "24"
+        },
+        {
+            "id": "4581",
+            "nome": "Navegantes",
+            "estadoId": "24"
+        },
+        {
+            "id": "4582",
+            "nome": "Nova Erechim",
+            "estadoId": "24"
+        },
+        {
+            "id": "4583",
+            "nome": "Nova Itaberaba",
+            "estadoId": "24"
+        },
+        {
+            "id": "4584",
+            "nome": "Nova Trento",
+            "estadoId": "24"
+        },
+        {
+            "id": "4585",
+            "nome": "Nova Veneza",
+            "estadoId": "24"
+        },
+        {
+            "id": "4586",
+            "nome": "Novo Horizonte",
+            "estadoId": "24"
+        },
+        {
+            "id": "4587",
+            "nome": "Orleans",
+            "estadoId": "24"
+        },
+        {
+            "id": "4588",
+            "nome": "Otacílio Costa",
+            "estadoId": "24"
+        },
+        {
+            "id": "4589",
+            "nome": "Ouro",
+            "estadoId": "24"
+        },
+        {
+            "id": "4590",
+            "nome": "Ouro Verde",
+            "estadoId": "24"
+        },
+        {
+            "id": "4591",
+            "nome": "Paial",
+            "estadoId": "24"
+        },
+        {
+            "id": "4592",
+            "nome": "Painel",
+            "estadoId": "24"
+        },
+        {
+            "id": "4593",
+            "nome": "Palhoça",
+            "estadoId": "24"
+        },
+        {
+            "id": "4594",
+            "nome": "Palma Sola",
+            "estadoId": "24"
+        },
+        {
+            "id": "4595",
+            "nome": "Palmeira",
+            "estadoId": "24"
+        },
+        {
+            "id": "4596",
+            "nome": "Palmitos",
+            "estadoId": "24"
+        },
+        {
+            "id": "4597",
+            "nome": "Papanduva",
+            "estadoId": "24"
+        },
+        {
+            "id": "4598",
+            "nome": "Paraíso",
+            "estadoId": "24"
+        },
+        {
+            "id": "4599",
+            "nome": "Passo de Torres",
+            "estadoId": "24"
+        },
+        {
+            "id": "4600",
+            "nome": "Passos Maia",
+            "estadoId": "24"
+        },
+        {
+            "id": "4601",
+            "nome": "Paulo Lopes",
+            "estadoId": "24"
+        },
+        {
+            "id": "4602",
+            "nome": "Pedras Grandes",
+            "estadoId": "24"
+        },
+        {
+            "id": "4603",
+            "nome": "Penha",
+            "estadoId": "24"
+        },
+        {
+            "id": "4604",
+            "nome": "Peritiba",
+            "estadoId": "24"
+        },
+        {
+            "id": "4605",
+            "nome": "Petrolândia",
+            "estadoId": "24"
+        },
+        {
+            "id": "4606",
+            "nome": "Piçarras",
+            "estadoId": "24"
+        },
+        {
+            "id": "4607",
+            "nome": "Pinhalzinho",
+            "estadoId": "24"
+        },
+        {
+            "id": "4608",
+            "nome": "Pinheiro Preto",
+            "estadoId": "24"
+        },
+        {
+            "id": "4609",
+            "nome": "Piratuba",
+            "estadoId": "24"
+        },
+        {
+            "id": "4610",
+            "nome": "Planalto Alegre",
+            "estadoId": "24"
+        },
+        {
+            "id": "4611",
+            "nome": "Pomerode",
+            "estadoId": "24"
+        },
+        {
+            "id": "4612",
+            "nome": "Ponte Alta",
+            "estadoId": "24"
+        },
+        {
+            "id": "4613",
+            "nome": "Ponte Alta do Norte",
+            "estadoId": "24"
+        },
+        {
+            "id": "4614",
+            "nome": "Ponte Serrada",
+            "estadoId": "24"
+        },
+        {
+            "id": "4615",
+            "nome": "Porto Belo",
+            "estadoId": "24"
+        },
+        {
+            "id": "4616",
+            "nome": "Porto União",
+            "estadoId": "24"
+        },
+        {
+            "id": "4617",
+            "nome": "Pouso Redondo",
+            "estadoId": "24"
+        },
+        {
+            "id": "4618",
+            "nome": "Praia Grande",
+            "estadoId": "24"
+        },
+        {
+            "id": "4619",
+            "nome": "Presidente Castelo Branco",
+            "estadoId": "24"
+        },
+        {
+            "id": "4620",
+            "nome": "Presidente Getúlio",
+            "estadoId": "24"
+        },
+        {
+            "id": "4621",
+            "nome": "Presidente Nereu",
+            "estadoId": "24"
+        },
+        {
+            "id": "4622",
+            "nome": "Princesa",
+            "estadoId": "24"
+        },
+        {
+            "id": "4623",
+            "nome": "Quilombo",
+            "estadoId": "24"
+        },
+        {
+            "id": "4624",
+            "nome": "Rancho Queimado",
+            "estadoId": "24"
+        },
+        {
+            "id": "4625",
+            "nome": "Rio das Antas",
+            "estadoId": "24"
+        },
+        {
+            "id": "4626",
+            "nome": "Rio do Campo",
+            "estadoId": "24"
+        },
+        {
+            "id": "4627",
+            "nome": "Rio do Oeste",
+            "estadoId": "24"
+        },
+        {
+            "id": "4628",
+            "nome": "Rio do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4629",
+            "nome": "Rio dos Cedros",
+            "estadoId": "24"
+        },
+        {
+            "id": "4630",
+            "nome": "Rio Fortuna",
+            "estadoId": "24"
+        },
+        {
+            "id": "4631",
+            "nome": "Rio Negrinho",
+            "estadoId": "24"
+        },
+        {
+            "id": "4632",
+            "nome": "Rio Rufino",
+            "estadoId": "24"
+        },
+        {
+            "id": "4633",
+            "nome": "Riqueza",
+            "estadoId": "24"
+        },
+        {
+            "id": "4634",
+            "nome": "Rodeio",
+            "estadoId": "24"
+        },
+        {
+            "id": "4635",
+            "nome": "Romelândia",
+            "estadoId": "24"
+        },
+        {
+            "id": "4636",
+            "nome": "Salete",
+            "estadoId": "24"
+        },
+        {
+            "id": "4637",
+            "nome": "Saltinho",
+            "estadoId": "24"
+        },
+        {
+            "id": "4638",
+            "nome": "Salto Veloso",
+            "estadoId": "24"
+        },
+        {
+            "id": "4639",
+            "nome": "Sangão",
+            "estadoId": "24"
+        },
+        {
+            "id": "4640",
+            "nome": "Santa Cecília",
+            "estadoId": "24"
+        },
+        {
+            "id": "4641",
+            "nome": "Santa Helena",
+            "estadoId": "24"
+        },
+        {
+            "id": "4642",
+            "nome": "Santa Rosa de Lima",
+            "estadoId": "24"
+        },
+        {
+            "id": "4643",
+            "nome": "Santa Rosa do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4644",
+            "nome": "Santa Terezinha",
+            "estadoId": "24"
+        },
+        {
+            "id": "4645",
+            "nome": "Santa Terezinha do Progresso",
+            "estadoId": "24"
+        },
+        {
+            "id": "4646",
+            "nome": "Santiago do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4647",
+            "nome": "Santo Amaro da Imperatriz",
+            "estadoId": "24"
+        },
+        {
+            "id": "4648",
+            "nome": "São Bento do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4649",
+            "nome": "São Bernardino",
+            "estadoId": "24"
+        },
+        {
+            "id": "4650",
+            "nome": "São Bonifácio",
+            "estadoId": "24"
+        },
+        {
+            "id": "4651",
+            "nome": "São Carlos",
+            "estadoId": "24"
+        },
+        {
+            "id": "4652",
+            "nome": "São Cristovão do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4653",
+            "nome": "São Domingos",
+            "estadoId": "24"
+        },
+        {
+            "id": "4654",
+            "nome": "São Francisco do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4655",
+            "nome": "São João Batista",
+            "estadoId": "24"
+        },
+        {
+            "id": "4656",
+            "nome": "São João do Itaperiú",
+            "estadoId": "24"
+        },
+        {
+            "id": "4657",
+            "nome": "São João do Oeste",
+            "estadoId": "24"
+        },
+        {
+            "id": "4658",
+            "nome": "São João do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4659",
+            "nome": "São Joaquim",
+            "estadoId": "24"
+        },
+        {
+            "id": "4660",
+            "nome": "São José",
+            "estadoId": "24"
+        },
+        {
+            "id": "4661",
+            "nome": "São José do Cedro",
+            "estadoId": "24"
+        },
+        {
+            "id": "4662",
+            "nome": "São José do Cerrito",
+            "estadoId": "24"
+        },
+        {
+            "id": "4663",
+            "nome": "São Lourenço do Oeste",
+            "estadoId": "24"
+        },
+        {
+            "id": "4664",
+            "nome": "São Ludgero",
+            "estadoId": "24"
+        },
+        {
+            "id": "4665",
+            "nome": "São Martinho",
+            "estadoId": "24"
+        },
+        {
+            "id": "4666",
+            "nome": "São Miguel da Boa Vista",
+            "estadoId": "24"
+        },
+        {
+            "id": "4667",
+            "nome": "São Miguel do Oeste",
+            "estadoId": "24"
+        },
+        {
+            "id": "4668",
+            "nome": "São Pedro de Alcântara",
+            "estadoId": "24"
+        },
+        {
+            "id": "4669",
+            "nome": "Saudades",
+            "estadoId": "24"
+        },
+        {
+            "id": "4670",
+            "nome": "Schroeder",
+            "estadoId": "24"
+        },
+        {
+            "id": "4671",
+            "nome": "Seara",
+            "estadoId": "24"
+        },
+        {
+            "id": "4672",
+            "nome": "Serra Alta",
+            "estadoId": "24"
+        },
+        {
+            "id": "4673",
+            "nome": "Siderópolis",
+            "estadoId": "24"
+        },
+        {
+            "id": "4674",
+            "nome": "Sombrio",
+            "estadoId": "24"
+        },
+        {
+            "id": "4675",
+            "nome": "Sul Brasil",
+            "estadoId": "24"
+        },
+        {
+            "id": "4676",
+            "nome": "Taió",
+            "estadoId": "24"
+        },
+        {
+            "id": "4677",
+            "nome": "Tangará",
+            "estadoId": "24"
+        },
+        {
+            "id": "4678",
+            "nome": "Tigrinhos",
+            "estadoId": "24"
+        },
+        {
+            "id": "4679",
+            "nome": "Tijucas",
+            "estadoId": "24"
+        },
+        {
+            "id": "4680",
+            "nome": "Timbé do Sul",
+            "estadoId": "24"
+        },
+        {
+            "id": "4681",
+            "nome": "Timbó",
+            "estadoId": "24"
+        },
+        {
+            "id": "4682",
+            "nome": "Timbó Grande",
+            "estadoId": "24"
+        },
+        {
+            "id": "4683",
+            "nome": "Três Barras",
+            "estadoId": "24"
+        },
+        {
+            "id": "4684",
+            "nome": "Treviso",
+            "estadoId": "24"
+        },
+        {
+            "id": "4685",
+            "nome": "Treze de Maio",
+            "estadoId": "24"
+        },
+        {
+            "id": "4686",
+            "nome": "Treze Tílias",
+            "estadoId": "24"
+        },
+        {
+            "id": "4687",
+            "nome": "Trombudo Central",
+            "estadoId": "24"
+        },
+        {
+            "id": "4688",
+            "nome": "Tubarão",
+            "estadoId": "24"
+        },
+        {
+            "id": "4689",
+            "nome": "Tunápolis",
+            "estadoId": "24"
+        },
+        {
+            "id": "4690",
+            "nome": "Turvo",
+            "estadoId": "24"
+        },
+        {
+            "id": "4691",
+            "nome": "União do Oeste",
+            "estadoId": "24"
+        },
+        {
+            "id": "4692",
+            "nome": "Urubici",
+            "estadoId": "24"
+        },
+        {
+            "id": "4693",
+            "nome": "Urupema",
+            "estadoId": "24"
+        },
+        {
+            "id": "4694",
+            "nome": "Urussanga",
+            "estadoId": "24"
+        },
+        {
+            "id": "4695",
+            "nome": "Vargeão",
+            "estadoId": "24"
+        },
+        {
+            "id": "4696",
+            "nome": "Vargem",
+            "estadoId": "24"
+        },
+        {
+            "id": "4697",
+            "nome": "Vargem Bonita",
+            "estadoId": "24"
+        },
+        {
+            "id": "4698",
+            "nome": "Vidal Ramos",
+            "estadoId": "24"
+        },
+        {
+            "id": "4699",
+            "nome": "Videira",
+            "estadoId": "24"
+        },
+        {
+            "id": "4700",
+            "nome": "Vitor Meireles",
+            "estadoId": "24"
+        },
+        {
+            "id": "4701",
+            "nome": "Witmarsum",
+            "estadoId": "24"
+        },
+        {
+            "id": "4702",
+            "nome": "Xanxerê",
+            "estadoId": "24"
+        },
+        {
+            "id": "4703",
+            "nome": "Xavantina",
+            "estadoId": "24"
+        },
+        {
+            "id": "4704",
+            "nome": "Xaxim",
+            "estadoId": "24"
+        },
+        {
+            "id": "4705",
+            "nome": "Zortéa",
+            "estadoId": "24"
+        }
+    ]
+}

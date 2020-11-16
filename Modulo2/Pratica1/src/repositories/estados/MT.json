@@ -1,0 +1,707 @@
+{
+    "id": "13",
+    "uf": "MT",
+    "nome": "Mato Grosso",
+    "cidades": [
+        {
+            "id": "1346",
+            "nome": "Acorizal",
+            "estadoId": "13"
+        },
+        {
+            "id": "1347",
+            "nome": "Água Boa",
+            "estadoId": "13"
+        },
+        {
+            "id": "1348",
+            "nome": "Alta Floresta",
+            "estadoId": "13"
+        },
+        {
+            "id": "1349",
+            "nome": "Alto Araguaia",
+            "estadoId": "13"
+        },
+        {
+            "id": "1350",
+            "nome": "Alto Boa Vista",
+            "estadoId": "13"
+        },
+        {
+            "id": "1351",
+            "nome": "Alto Garças",
+            "estadoId": "13"
+        },
+        {
+            "id": "1352",
+            "nome": "Alto Paraguai",
+            "estadoId": "13"
+        },
+        {
+            "id": "1353",
+            "nome": "Alto Taquari",
+            "estadoId": "13"
+        },
+        {
+            "id": "1354",
+            "nome": "Apiacás",
+            "estadoId": "13"
+        },
+        {
+            "id": "1355",
+            "nome": "Araguaiana",
+            "estadoId": "13"
+        },
+        {
+            "id": "1356",
+            "nome": "Araguainha",
+            "estadoId": "13"
+        },
+        {
+            "id": "1357",
+            "nome": "Araputanga",
+            "estadoId": "13"
+        },
+        {
+            "id": "1358",
+            "nome": "Arenápolis",
+            "estadoId": "13"
+        },
+        {
+            "id": "1359",
+            "nome": "Aripuanã",
+            "estadoId": "13"
+        },
+        {
+            "id": "1360",
+            "nome": "Barão de Melgaço",
+            "estadoId": "13"
+        },
+        {
+            "id": "1361",
+            "nome": "Barra do Bugres",
+            "estadoId": "13"
+        },
+        {
+            "id": "1362",
+            "nome": "Barra do Garças",
+            "estadoId": "13"
+        },
+        {
+            "id": "1363",
+            "nome": "Bom Jesus do Araguaia",
+            "estadoId": "13"
+        },
+        {
+            "id": "1364",
+            "nome": "Brasnorte",
+            "estadoId": "13"
+        },
+        {
+            "id": "1365",
+            "nome": "Cáceres",
+            "estadoId": "13"
+        },
+        {
+            "id": "1366",
+            "nome": "Campinápolis",
+            "estadoId": "13"
+        },
+        {
+            "id": "1367",
+            "nome": "Campo Novo do Parecis",
+            "estadoId": "13"
+        },
+        {
+            "id": "1368",
+            "nome": "Campo Verde",
+            "estadoId": "13"
+        },
+        {
+            "id": "1369",
+            "nome": "Campos de Júlio",
+            "estadoId": "13"
+        },
+        {
+            "id": "1370",
+            "nome": "Canabrava do Norte",
+            "estadoId": "13"
+        },
+        {
+            "id": "1371",
+            "nome": "Canarana",
+            "estadoId": "13"
+        },
+        {
+            "id": "1372",
+            "nome": "Carlinda",
+            "estadoId": "13"
+        },
+        {
+            "id": "1373",
+            "nome": "Castanheira",
+            "estadoId": "13"
+        },
+        {
+            "id": "1374",
+            "nome": "Chapada dos Guimarães",
+            "estadoId": "13"
+        },
+        {
+            "id": "1375",
+            "nome": "Cláudia",
+            "estadoId": "13"
+        },
+        {
+            "id": "1376",
+            "nome": "Cocalinho",
+            "estadoId": "13"
+        },
+        {
+            "id": "1377",
+            "nome": "Colíder",
+            "estadoId": "13"
+        },
+        {
+            "id": "1378",
+            "nome": "Colniza",
+            "estadoId": "13"
+        },
+        {
+            "id": "1379",
+            "nome": "Comodoro",
+            "estadoId": "13"
+        },
+        {
+            "id": "1380",
+            "nome": "Confresa",
+            "estadoId": "13"
+        },
+        {
+            "id": "1381",
+            "nome": "Conquista d`Oeste",
+            "estadoId": "13"
+        },
+        {
+            "id": "1382",
+            "nome": "Cotriguaçu",
+            "estadoId": "13"
+        },
+        {
+            "id": "1383",
+            "nome": "Cuiabá",
+            "estadoId": "13"
+        },
+        {
+            "id": "1384",
+            "nome": "Curvelândia",
+            "estadoId": "13"
+        },
+        {
+            "id": "1386",
+            "nome": "Denise",
+            "estadoId": "13"
+        },
+        {
+            "id": "1387",
+            "nome": "Diamantino",
+            "estadoId": "13"
+        },
+        {
+            "id": "1388",
+            "nome": "Dom Aquino",
+            "estadoId": "13"
+        },
+        {
+            "id": "1389",
+            "nome": "Feliz Natal",
+            "estadoId": "13"
+        },
+        {
+            "id": "1390",
+            "nome": "Figueirópolis d`Oeste",
+            "estadoId": "13"
+        },
+        {
+            "id": "1391",
+            "nome": "Gaúcha do Norte",
+            "estadoId": "13"
+        },
+        {
+            "id": "1392",
+            "nome": "General Carneiro",
+            "estadoId": "13"
+        },
+        {
+            "id": "1393",
+            "nome": "Glória d`Oeste",
+            "estadoId": "13"
+        },
+        {
+            "id": "1394",
+            "nome": "Guarantã do Norte",
+            "estadoId": "13"
+        },
+        {
+            "id": "1395",
+            "nome": "Guiratinga",
+            "estadoId": "13"
+        },
+        {
+            "id": "1396",
+            "nome": "Indiavaí",
+            "estadoId": "13"
+        },
+        {
+            "id": "1397",
+            "nome": "Ipiranga do Norte",
+            "estadoId": "13"
+        },
+        {
+            "id": "1398",
+            "nome": "Itanhangá",
+            "estadoId": "13"
+        },
+        {
+            "id": "1399",
+            "nome": "Itaúba",
+            "estadoId": "13"
+        },
+        {
+            "id": "1400",
+            "nome": "Itiquira",
+            "estadoId": "13"
+        },
+        {
+            "id": "1401",
+            "nome": "Jaciara",
+            "estadoId": "13"
+        },
+        {
+            "id": "1402",
+            "nome": "Jangada",
+            "estadoId": "13"
+        },
+        {
+            "id": "1403",
+            "nome": "Jauru",
+            "estadoId": "13"
+        },
+        {
+            "id": "1404",
+            "nome": "Juara",
+            "estadoId": "13"
+        },
+        {
+            "id": "1405",
+            "nome": "Juína",
+            "estadoId": "13"
+        },
+        {
+            "id": "1406",
+            "nome": "Juruena",
+            "estadoId": "13"
+        },
+        {
+            "id": "1407",
+            "nome": "Juscimeira",
+            "estadoId": "13"
+        },
+        {
+            "id": "1408",
+            "nome": "Lambari d`Oeste",
+            "estadoId": "13"
+        },
+        {
+            "id": "1409",
+            "nome": "Lucas do Rio Verde",
+            "estadoId": "13"
+        },
+        {
+            "id": "1410",
+            "nome": "Luciára",
+            "estadoId": "13"
+        },
+        {
+            "id": "1411",
+            "nome": "Marcelândia",
+            "estadoId": "13"
+        },
+        {
+            "id": "1412",
+            "nome": "Matupá",
+            "estadoId": "13"
+        },
+        {
+            "id": "1413",
+            "nome": "Mirassol d`Oeste",
+            "estadoId": "13"
+        },
+        {
+            "id": "1414",
+            "nome": "Nobres",
+            "estadoId": "13"
+        },
+        {
+            "id": "1415",
+            "nome": "Nortelândia",
+            "estadoId": "13"
+        },
+        {
+            "id": "1416",
+            "nome": "Nossa Senhora do Livramento",
+            "estadoId": "13"
+        },
+        {
+            "id": "1417",
+            "nome": "Nova Bandeirantes",
+            "estadoId": "13"
+        },
+        {
+            "id": "1418",
+            "nome": "Nova Brasilândia",
+            "estadoId": "13"
+        },
+        {
+            "id": "1419",
+            "nome": "Nova Canaã do Norte",
+            "estadoId": "13"
+        },
+        {
+            "id": "1420",
+            "nome": "Nova Guarita",
+            "estadoId": "13"
+        },
+        {
+            "id": "1421",
+            "nome": "Nova Lacerda",
+            "estadoId": "13"
+        },
+        {
+            "id": "1422",
+            "nome": "Nova Marilândia",
+            "estadoId": "13"
+        },
+        {
+            "id": "1423",
+            "nome": "Nova Maringá",
+            "estadoId": "13"
+        },
+        {
+            "id": "1424",
+            "nome": "Nova Monte verde",
+            "estadoId": "13"
+        },
+        {
+            "id": "1425",
+            "nome": "Nova Mutum",
+            "estadoId": "13"
+        },
+        {
+            "id": "1426",
+            "nome": "Nova Olímpia",
+            "estadoId": "13"
+        },
+        {
+            "id": "1427",
+            "nome": "Nova Santa Helena",
+            "estadoId": "13"
+        },
+        {
+            "id": "1428",
+            "nome": "Nova Ubiratã",
+            "estadoId": "13"
+        },
+        {
+            "id": "1429",
+            "nome": "Nova Xavantina",
+            "estadoId": "13"
+        },
+        {
+            "id": "1430",
+            "nome": "Novo Horizonte do Norte",
+            "estadoId": "13"
+        },
+        {
+            "id": "1431",
+            "nome": "Novo Mundo",
+            "estadoId": "13"
+        },
+        {
+            "id": "1432",
+            "nome": "Novo Santo Antônio",
+            "estadoId": "13"
+        },
+        {
+            "id": "1433",
+            "nome": "Novo São Joaquim",
+            "estadoId": "13"
+        },
+        {
+            "id": "1434",
+            "nome": "Paranaíta",
+            "estadoId": "13"
+        },
+        {
+            "id": "1435",
+            "nome": "Paranatinga",
+            "estadoId": "13"
+        },
+        {
+            "id": "1436",
+            "nome": "Pedra Preta",
+            "estadoId": "13"
+        },
+        {
+            "id": "1437",
+            "nome": "Peixoto de Azevedo",
+            "estadoId": "13"
+        },
+        {
+            "id": "1438",
+            "nome": "Planalto da Serra",
+            "estadoId": "13"
+        },
+        {
+            "id": "1439",
+            "nome": "Poconé",
+            "estadoId": "13"
+        },
+        {
+            "id": "1440",
+            "nome": "Pontal do Araguaia",
+            "estadoId": "13"
+        },
+        {
+            "id": "1441",
+            "nome": "Ponte Branca",
+            "estadoId": "13"
+        },
+        {
+            "id": "1442",
+            "nome": "Pontes e Lacerda",
+            "estadoId": "13"
+        },
+        {
+            "id": "1443",
+            "nome": "Porto Alegre do Norte",
+            "estadoId": "13"
+        },
+        {
+            "id": "1444",
+            "nome": "Porto dos Gaúchos",
+            "estadoId": "13"
+        },
+        {
+            "id": "1445",
+            "nome": "Porto Esperidião",
+            "estadoId": "13"
+        },
+        {
+            "id": "1446",
+            "nome": "Porto Estrela",
+            "estadoId": "13"
+        },
+        {
+            "id": "1447",
+            "nome": "Poxoréo",
+            "estadoId": "13"
+        },
+        {
+            "id": "1448",
+            "nome": "Primavera do Leste",
+            "estadoId": "13"
+        },
+        {
+            "id": "1449",
+            "nome": "Querência",
+            "estadoId": "13"
+        },
+        {
+            "id": "1450",
+            "nome": "Reserva do Cabaçal",
+            "estadoId": "13"
+        },
+        {
+            "id": "1451",
+            "nome": "Ribeirão Cascalheira",
+            "estadoId": "13"
+        },
+        {
+            "id": "1452",
+            "nome": "Ribeirãozinho",
+            "estadoId": "13"
+        },
+        {
+            "id": "1453",
+            "nome": "Rio Branco",
+            "estadoId": "13"
+        },
+        {
+            "id": "1454",
+            "nome": "Rondolândia",
+            "estadoId": "13"
+        },
+        {
+            "id": "1455",
+            "nome": "Rondonópolis",
+            "estadoId": "13"
+        },
+        {
+            "id": "1456",
+            "nome": "Rosário Oeste",
+            "estadoId": "13"
+        },
+        {
+            "id": "1457",
+            "nome": "Salto do Céu",
+            "estadoId": "13"
+        },
+        {
+            "id": "1458",
+            "nome": "Santa Carmem",
+            "estadoId": "13"
+        },
+        {
+            "id": "1459",
+            "nome": "Santa Cruz do Xingu",
+            "estadoId": "13"
+        },
+        {
+            "id": "1460",
+            "nome": "Santa Rita do Trivelato",
+            "estadoId": "13"
+        },
+        {
+            "id": "1461",
+            "nome": "Santa Terezinha",
+            "estadoId": "13"
+        },
+        {
+            "id": "1462",
+            "nome": "Santo Afonso",
+            "estadoId": "13"
+        },
+        {
+            "id": "1463",
+            "nome": "Santo Antônio do Leste",
+            "estadoId": "13"
+        },
+        {
+            "id": "1464",
+            "nome": "Santo Antônio do Leverger",
+            "estadoId": "13"
+        },
+        {
+            "id": "1465",
+            "nome": "São Félix do Araguaia",
+            "estadoId": "13"
+        },
+        {
+            "id": "1466",
+            "nome": "São José do Povo",
+            "estadoId": "13"
+        },
+        {
+            "id": "1467",
+            "nome": "São José do Rio Claro",
+            "estadoId": "13"
+        },
+        {
+            "id": "1468",
+            "nome": "São José do Xingu",
+            "estadoId": "13"
+        },
+        {
+            "id": "1469",
+            "nome": "São José dos Quatro Marcos",
+            "estadoId": "13"
+        },
+        {
+            "id": "1470",
+            "nome": "São Pedro da Cipa",
+            "estadoId": "13"
+        },
+        {
+            "id": "1471",
+            "nome": "Sapezal",
+            "estadoId": "13"
+        },
+        {
+            "id": "1472",
+            "nome": "Serra Nova Dourada",
+            "estadoId": "13"
+        },
+        {
+            "id": "1473",
+            "nome": "Sinop",
+            "estadoId": "13"
+        },
+        {
+            "id": "1474",
+            "nome": "Sorriso",
+            "estadoId": "13"
+        },
+        {
+            "id": "1475",
+            "nome": "Tabaporã",
+            "estadoId": "13"
+        },
+        {
+            "id": "1476",
+            "nome": "Tangará da Serra",
+            "estadoId": "13"
+        },
+        {
+            "id": "1477",
+            "nome": "Tapurah",
+            "estadoId": "13"
+        },
+        {
+            "id": "1478",
+            "nome": "Terra Nova do Norte",
+            "estadoId": "13"
+        },
+        {
+            "id": "1479",
+            "nome": "Tesouro",
+            "estadoId": "13"
+        },
+        {
+            "id": "1480",
+            "nome": "Torixoréu",
+            "estadoId": "13"
+        },
+        {
+            "id": "1481",
+            "nome": "União do Sul",
+            "estadoId": "13"
+        },
+        {
+            "id": "1482",
+            "nome": "Vale de São Domingos",
+            "estadoId": "13"
+        },
+        {
+            "id": "1483",
+            "nome": "Várzea Grande",
+            "estadoId": "13"
+        },
+        {
+            "id": "1484",
+            "nome": "Vera",
+            "estadoId": "13"
+        },
+        {
+            "id": "1485",
+            "nome": "Vila Bela da Santíssima Trindade",
+            "estadoId": "13"
+        },
+        {
+            "id": "1486",
+            "nome": "Vila Rica",
+            "estadoId": "13"
+        }
+    ]
+}

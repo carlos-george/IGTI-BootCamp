@@ -1,0 +1,12 @@
+{
+    "id": "7",
+    "uf": "DF",
+    "nome": "Distrito Federal",
+    "cidades": [
+        {
+            "id": "882",
+            "nome": "Brasília",
+            "estadoId": "7"
+        }
+    ]
+}

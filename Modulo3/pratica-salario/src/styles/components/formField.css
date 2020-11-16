@@ -1,0 +1,42 @@
+.input-block {
+  width: 100%;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.input-block label {
+  display: flex;
+  color: #8fa7b3;
+  margin-bottom: 8px;
+  line-height: 24px;
+}
+
+.input-block label span {
+  font-size: 14px;
+  color: #8fa7b3;
+  margin-left: 24px;
+  line-height: 24px;
+}
+
+.input-block input {
+  width: 100%;
+  height: 64px;
+  padding: 0 16px;
+  background: #f3f8fcd3;
+  border: 0;
+  border-radius: 5px;
+  outline: none;
+  color: #8fa7b3;
+}
+
+.input-block input:focus {
+  color: #16a085;
+  outline: none;
+  border-bottom: 1px solid #16a085;
+}
+
+.input-block input:focus + label {
+  color: #16a085;
+}

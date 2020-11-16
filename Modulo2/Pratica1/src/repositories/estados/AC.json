@@ -1,0 +1,117 @@
+{
+    "id": "1",
+    "uf": "AC",
+    "nome": "Acre",
+    "cidades": [
+        {
+            "id": "79",
+            "nome": "Acrelândia",
+            "estadoId": "1"
+        },
+        {
+            "id": "80",
+            "nome": "Assis Brasil",
+            "estadoId": "1"
+        },
+        {
+            "id": "81",
+            "nome": "Brasiléia",
+            "estadoId": "1"
+        },
+        {
+            "id": "82",
+            "nome": "Bujari",
+            "estadoId": "1"
+        },
+        {
+            "id": "83",
+            "nome": "Capixaba",
+            "estadoId": "1"
+        },
+        {
+            "id": "84",
+            "nome": "Cruzeiro do Sul",
+            "estadoId": "1"
+        },
+        {
+            "id": "85",
+            "nome": "Epitaciolândia",
+            "estadoId": "1"
+        },
+        {
+            "id": "86",
+            "nome": "Feijó",
+            "estadoId": "1"
+        },
+        {
+            "id": "87",
+            "nome": "Jordão",
+            "estadoId": "1"
+        },
+        {
+            "id": "88",
+            "nome": "Mâncio Lima",
+            "estadoId": "1"
+        },
+        {
+            "id": "89",
+            "nome": "Manoel Urbano",
+            "estadoId": "1"
+        },
+        {
+            "id": "90",
+            "nome": "Marechal Thaumaturgo",
+            "estadoId": "1"
+        },
+        {
+            "id": "91",
+            "nome": "Plácido de Castro",
+            "estadoId": "1"
+        },
+        {
+            "id": "92",
+            "nome": "Porto Acre",
+            "estadoId": "1"
+        },
+        {
+            "id": "93",
+            "nome": "Porto Walter",
+            "estadoId": "1"
+        },
+        {
+            "id": "94",
+            "nome": "Rio Branco",
+            "estadoId": "1"
+        },
+        {
+            "id": "95",
+            "nome": "Rodrigues Alves",
+            "estadoId": "1"
+        },
+        {
+            "id": "96",
+            "nome": "Santa Rosa do Purus",
+            "estadoId": "1"
+        },
+        {
+            "id": "97",
+            "nome": "Sena Madureira",
+            "estadoId": "1"
+        },
+        {
+            "id": "98",
+            "nome": "Senador Guiomard",
+            "estadoId": "1"
+        },
+        {
+            "id": "99",
+            "nome": "Tarauacá",
+            "estadoId": "1"
+        },
+        {
+            "id": "100",
+            "nome": "Xapuri",
+            "estadoId": "1"
+        }
+    ]
+}

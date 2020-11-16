@@ -1,0 +1,87 @@
+{
+    "id": "4",
+    "uf": "AP",
+    "nome": "Amapá",
+    "cidades": [
+        {
+            "id": "203",
+            "nome": "Amapá",
+            "estadoId": "4"
+        },
+        {
+            "id": "204",
+            "nome": "Calçoene",
+            "estadoId": "4"
+        },
+        {
+            "id": "205",
+            "nome": "Cutias",
+            "estadoId": "4"
+        },
+        {
+            "id": "206",
+            "nome": "Ferreira Gomes",
+            "estadoId": "4"
+        },
+        {
+            "id": "207",
+            "nome": "Itaubal",
+            "estadoId": "4"
+        },
+        {
+            "id": "208",
+            "nome": "Laranjal do Jari",
+            "estadoId": "4"
+        },
+        {
+            "id": "209",
+            "nome": "Macapá",
+            "estadoId": "4"
+        },
+        {
+            "id": "210",
+            "nome": "Mazagão",
+            "estadoId": "4"
+        },
+        {
+            "id": "211",
+            "nome": "Oiapoque",
+            "estadoId": "4"
+        },
+        {
+            "id": "212",
+            "nome": "Pedra Branca do Amaparí",
+            "estadoId": "4"
+        },
+        {
+            "id": "213",
+            "nome": "Porto Grande",
+            "estadoId": "4"
+        },
+        {
+            "id": "214",
+            "nome": "Pracuúba",
+            "estadoId": "4"
+        },
+        {
+            "id": "215",
+            "nome": "Santana",
+            "estadoId": "4"
+        },
+        {
+            "id": "216",
+            "nome": "Serra do Navio",
+            "estadoId": "4"
+        },
+        {
+            "id": "217",
+            "nome": "Tartarugalzinho",
+            "estadoId": "4"
+        },
+        {
+            "id": "218",
+            "nome": "Vitória do Jari",
+            "estadoId": "4"
+        }
+    ]
+}

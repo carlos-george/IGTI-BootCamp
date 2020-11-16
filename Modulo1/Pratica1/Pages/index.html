@@ -1,0 +1,29 @@
+<html>
+  <link rel="stylesheet" href="../css/styles.css" />
+  <body>
+    <div class="content">
+      <div class="form-rgb">
+        <div class="form-rgb-content">
+          <label for="red">(R) Vermelho:</label>
+          <label for="green">(G) Verde:</label>
+          <label for="blue">(B) Blue:</label>
+        </div>
+
+        <div class="form-rgb-content">
+          <input type="range" min="0" max="255" id="red" step="1" value="0" />
+          <input type="range" min="0" max="255" id="green" step="1" value="0" />
+          <input type="range" min="0" max="255" id="blue" step="1" value="0" />
+        </div>
+
+        <div class="form-rgb-content">
+          <input id="red_out" value="0" disabled />
+          <input id="green_out" value="0" disabled />
+          <input id="blue_out" value="0" disabled />
+        </div>
+      </div>
+
+      <div id="div" class="square"></div>
+    </div>
+    <script src="../JS/script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,188 @@
+#container {
+  width: 80vw;
+  height: 100%;
+  background: #f0f0f5;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+#container header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#container header h1 {
+  font-size: 44px;
+  font-weight: bold;
+}
+
+#container header h2 {
+  font-size: 34px;
+  margin: 0;
+}
+
+#container main {
+  width: 100%;
+  margin-top: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#container main .transac-period .period-select {
+  display: block;
+  position: relative;
+}
+
+#container main .transac-period .period-select > select {
+  display: block;
+  height: 32px;
+  width: 200px;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.26);
+  box-shadow: none;
+  background-color: transparent;
+  cursor: pointer;
+  color: rgba(0, 0, 0, 0.87);
+  font-size: 16px;
+  padding: 0 25px 0 0;
+}
+
+#container main .month-transactions {
+  width: 100%;
+  margin: 15px 0px 15px 0px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #37474f;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#container main .month-transactions .transactions span {
+  margin-left: 5px;
+  line-height: 5px;
+  font-weight: bold;
+}
+
+#container main .month-transactions .transac-receita span {
+  margin-left: 5px;
+  line-height: 5px;
+  font-weight: bold;
+}
+
+#container main .month-transactions .transac-despesa span {
+  margin-left: 5px;
+  color: #eb5151;
+  line-height: 5px;
+  font-weight: bold;
+}
+
+#container main .filter-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+#container main .filter-container button {
+  width: 200px;
+  height: 40px;
+  padding: 5px;
+  background: #00c86f;
+  border: none;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+
+#container main .filter-container button span {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#container main .filter-container button svg {
+  margin-right: 5px;
+}
+
+#container main .filter-container input {
+  box-sizing: border-box;
+  display: block;
+  background-color: transparent;
+  color: rgba(0, 0, 0, 0.87);
+  border: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.26);
+  outline: none;
+  width: 100%;
+  height: 40px;
+  padding: 0;
+  box-shadow: none;
+  border-radius: 0px;
+  font-size: 18px;
+}
+
+#container main .filter-container button + input {
+  margin-left: 15px;
+}
+
+#container main .list-transactions {
+  width: 100%;
+  margin-top: 10px;
+}
+
+#container main .list-transactions .card-transac {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 8px;
+  border: none;
+}
+
+#container main .list-transactions .card-transac .transc-day {
+  width: 15px;
+  margin-right: 25px;
+}
+
+#container main .list-transactions .card-transac .transc-day span {
+  font-size: 18px;
+  font-weight: bold;
+  color: #37474f;
+}
+
+#container main .list-transactions .card-transac .transc-desc {
+  width: 100%;
+}
+
+#container main .list-transactions .card-transac .transc-desc h4 {
+  margin-top: 0;
+  margin-bottom: 7px;
+  font-size: 18px;
+}
+#container main .list-transactions .card-transac .transac-value {
+  width: 300px;
+  color: #37474f;
+  font-size: 18px;
+}
+
+#container main .list-transactions .card-transac .transac-actions {
+  width: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#container main .list-transactions .card-transac .transac-actions svg {
+  cursor: pointer;
+}
